@@ -9,8 +9,7 @@
 - 🎓 B.Tech IT Student @ Parul University, Vadodara  
 - 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)  
 - 🌱 Currently learning **Data Structures & Algorithms**  
-- 🔭 Building real-world projects like **Physiotherapy Website**  
-- 🎯 Goal: Crack a **5+ LPA Software Developer Role**  
+- 🔭 Building real-world projects like **Physiotherapy Website**    
 - ⚡ Fun fact: I debug faster with chai ☕😄  
 
 ---
@@ -50,11 +49,8 @@
 
 ### 🌐 Connect with Me
 <p>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/priyanshuraj-prasad-2098342b7/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
 
