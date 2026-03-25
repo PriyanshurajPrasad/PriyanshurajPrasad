@@ -30,8 +30,14 @@
   → Real-time weather data using OpenWeather API  
 
 - 🔐 **Password Strength Checker**  
-  → Secure password validation with advanced checks  
+  → Secure password validation with advanced checks
 
+- 🔐 **TypoFusion**  
+  → Just copy the CSS styles in your development journey.
+
+- 🔐 **AI_Assistant (Phyrix)**  
+  → The Chatbot for answering the questions.
+  
 ---
 
 ### 📊 GitHub Stats
