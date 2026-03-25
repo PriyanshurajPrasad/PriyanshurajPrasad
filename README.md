@@ -31,11 +31,11 @@
 - 🔐 **Password Strength Checker**  
   → Secure password validation with advanced checks
 
-- 🔐 **TypoFusion**  
-  → Just copy the CSS styles in your development journey.
+- 🎨 **TypoFusion**  
+  → Reusable CSS styles to enhance UI and speed up development.
 
-- 🔐 **AI_Assistant (Phyrix)**  
-  → The Chatbot for answering the questions.
+- 🤖 **AI Assistant (Phyrix)**  
+  → A chatbot for answering user queries in real time.
   
 ---
 
