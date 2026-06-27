@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Priyanshu Raj Prasad
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Priyanshuraj Prasad
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;MERN+Stack+Developer;Problem+Solver;Building+AI+Powered+Applications;Always+Learning+New+Technologies" />
 
