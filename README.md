@@ -20,11 +20,11 @@ Interactive anatomy learning platform with an intuitive interface for exploring 
 
 ---
 
-### Portfolio Website
-A modern developer portfolio showcasing projects, skills, and achievements with smooth animations and responsive design.
+### PhysiCare
+
+A modern healthcare platform that streamlines physiotherapy services by enabling appointment scheduling, patient management, and treatment tracking through a user-friendly and responsive interface.
 
 **Tech:** React, Tailwind CSS, JavaScript
-
 ## 📊 GitHub Stats
 
 <p align="center">
