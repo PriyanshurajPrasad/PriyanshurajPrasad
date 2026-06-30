@@ -14,9 +14,9 @@ AI-powered educational platform for students featuring AI explanations, quiz gen
 ---
 
 ### Human Anatomy Viewer
-Interactive 3D anatomy learning platform with an intuitive interface for exploring different parts of the human body.
+Interactive anatomy learning platform with an intuitive interface for exploring different parts of the human body.
 
-**Tech:** React, Three.js, JavaScript
+**Tech:** React, Node.js, Express, MongoDB, TailwindCSS, Groq AI 
 
 ---
 
@@ -34,8 +34,7 @@ A modern developer portfolio showcasing projects, skills, and achievements with 
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/your-linkedin
-- Portfolio: https://your-portfolio.vercel.app
-- Email: your-email@gmail.com
+- LinkedIn: https://www.linkedin.com/in/priyanshuraj-prasad-2098342b7/
+- Email: your-priyanshurajprasad999@gmail.com
 
 > "Building software that solves real-world problems through clean and scalable solutions."
