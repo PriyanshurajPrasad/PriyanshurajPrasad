@@ -19,23 +19,16 @@
 
 ## 👨‍💻 Who I Am
 
-```typescript
-const priyanshuraj = {
-  title: "Full Stack MERN Developer",
-  stack: {
-    languages: ["Java", "C", "Python"],
-    web: ["HTML", "CSS", "JavaScript", "React.js", "Redux Toolkit", "Bootstrap", "Tailwind CSS", "Material UI"],
-    backend: ["Node.js", "Express.js", "REST APIs", "JWT Authentication"],
-    databases: ["MySQL", "MongoDB"],
-    tools: ["Git", "GitHub", "Postman", "Vercel", "Render"],
-  },
-  csFundamentals: ["DSA", "Operating Systems", "DBMS", "Computer Networks", "OOP", "System Design"],
-  launchedProjects: ["AI-Study-Buddy", "PhysioCare", "AnatomyViewer"],
-  certifications: ["FutureInterns - Web Development", "Oasis InfoByte - Web Development"],
-  status: "Final-year student, actively building & shipping full-stack projects",
-  openTo: ["SDE Roles", "Full Stack Development", "Backend Engineering", "Collaboration"],
-};
-```
+Priyanshuraj Prasad ek Full Stack MERN Developer hai, currently final-year student jo actively full-stack projects bana aur ship kar raha hai.
+Programming Languages: Java, C, Python
+Web Development: HTML, CSS, JavaScript, React.js, Redux Toolkit, Bootstrap, Tailwind CSS, Material UI
+Backend: Node.js, Express.js, REST APIs, JWT Authentication
+Databases: MySQL, MongoDB
+Tools & Platforms: Git, GitHub, Postman, Vercel, Render
+CS Fundamentals: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks, OOP, System Design
+Launched Projects: AI Study Buddy, PhysioCare, AnatomyViewer
+Certifications: FutureInterns – Web Development, Oasis InfoByte – Web Development
+Open To: SDE Roles, Full Stack Development, Backend Engineering, Collaboration
 
 <br/>
 
