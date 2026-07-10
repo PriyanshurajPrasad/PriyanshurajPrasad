@@ -19,7 +19,9 @@
 
 ## 👨‍💻 Who I Am
 
-Priyanshuraj Prasad ek Full Stack MERN Developer hai, currently final-year student jo actively full-stack projects bana aur ship kar raha hai.
+Priyanshuraj Prasad is a Full Stack MERN Developer — a final-year student actively building and shipping full-stack projects.
+
+
 Programming Languages: Java, C, Python
 Web Development: HTML, CSS, JavaScript, React.js, Redux Toolkit, Bootstrap, Tailwind CSS, Material UI
 Backend: Node.js, Express.js, REST APIs, JWT Authentication
@@ -29,7 +31,6 @@ CS Fundamentals: Data Structures & Algorithms, Operating Systems, DBMS, Computer
 Launched Projects: AI Study Buddy, PhysioCare, AnatomyViewer
 Certifications: FutureInterns – Web Development, Oasis InfoByte – Web Development
 Open To: SDE Roles, Full Stack Development, Backend Engineering, Collaboration
-
 <br/>
 
 ## 🚀 Featured Projects
