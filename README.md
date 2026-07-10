@@ -42,7 +42,7 @@ AI-powered full-stack learning platform enabling users to upload study materials
 <div align="center">
 <img src="https://raw.githubusercontent.com/PriyanshurajPrasad/AI_Study_Buddy/main/AI-StudyBuddy.png" alt="AI Study Buddy Banner" width="700"/>
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyanshurajPrasad&repo=AI_Study_Buddy&theme=nord&border_color=8B5CF6&title_color=8B5CF6&text_color=c9cbff" alt="AI Study Buddy Repo Card"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyanshurajPrasad&repo=AI_Study_Buddy&theme=nord&border_color=8B5CF6&title_color=8B5CF6&text_color=c9cbff"/>
 </div>
 
 | Layer | Technology |
