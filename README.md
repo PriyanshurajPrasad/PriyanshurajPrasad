@@ -40,6 +40,8 @@
 AI-powered full-stack learning platform enabling users to upload study materials, generate AI-based quizzes (10–15 questions per session), and receive detailed explanations for self-paced learning. Built with JWT authentication and MongoDB Atlas, deployed on Render + Vercel with sub-3-second API response times.
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/PriyanshurajPrasad/AI-Study-Buddy/main/assets/ai-study-buddy-banner.png" alt="AI Study Buddy Banner" width="700"/>
+<br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=PriyanshurajPrasad&repo=AI-Study-Buddy&theme=nord&border_color=8B5CF6&title_color=8B5CF6&text_color=c9cbff" alt="AI Study Buddy Repo Card"/>
 </div>
 
