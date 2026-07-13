@@ -12,9 +12,9 @@ I am a dedicated software engineering student passionate about full-stack develo
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,express,mongodb,git,github,vscode,postman" alt="My Tech Stack" />
-</p>
+</div>
 
 ---
 
@@ -42,10 +42,10 @@ A modern healthcare platform built to streamline and manage physiotherapy clinic
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyanshurajPrasad&show_icons=true&theme=default" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshurajPrasad&theme=default" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
