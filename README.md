@@ -18,7 +18,7 @@ I'm a final-year software engineering student passionate about full-stack develo
 
 - 🎓 Final-year B.Tech (Information Technology), Parul University
 - 💻 Full Stack MERN Developer
-- 🎯 Preparing for SDE roles — 400+ problems solved on LeetCode
+- 🎯 Preparing for SDE roles — 450+ problems solved on LeetCode
 - 📫 Reach me at **priyanshurajprasad999@gmail.com**
 
 <br>
