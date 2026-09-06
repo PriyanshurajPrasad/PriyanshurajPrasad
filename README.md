@@ -14,11 +14,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a final-year software engineering student passionate about full-stack development, systems analysis, and architectural design. I enjoy bringing structure to complex problems through functional modeling, while building intuitive, user-centric digital experiences.
+Final-year B.Tech Information Technology student with hands-on experience as a Web Development Intern, proficient in full-stack development using the **MERN Stack**, RESTful APIs, and JWT Authentication — with growing expertise in building **AI agents** using LangChain, Model Context Protocol (MCP), and the OpenAI Agents SDK.
 
-- 🎓 Final-year B.Tech (Information Technology), Parul University
-- 💻 Full Stack MERN Developer
-- 🎯 Preparing for SDE roles — 400+ problems solved on LeetCode
+- 🎓 Final-year B.Tech (Information Technology), Parul University, Vadodara
+- 💻 Full Stack MERN Developer | Exploring Agentic AI (LangChain, MCP, OpenAI Agents SDK)
+- 🚀 3+ deployed full-stack projects
+- 🎯 Preparing for SDE roles — 450+ problems solved on LeetCode
+- 💼 Web Development Intern @ FutureInterns
 - 📫 Reach me at **priyanshurajprasad999@gmail.com**
 
 <br>
@@ -93,7 +95,7 @@ I'm a final-year software engineering student passionate about full-stack develo
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyanshurajPrasad&show_icons=true&theme=default&cache_seconds=1800" alt="GitHub Stats" /> -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyanshurajPrasad&show_icons=true&theme=default&cache_seconds=1800" alt="GitHub Stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=PriyanshurajPrasad&theme=default" alt="GitHub Streak" />
 </div>
 
@@ -118,3 +120,4 @@ I'm a final-year software engineering student passionate about full-stack develo
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PriyanshurajPrasad&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</p>
