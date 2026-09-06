@@ -18,7 +18,7 @@ I'm a final-year software engineering student passionate about full-stack develo
 
 - 🎓 Final-year B.Tech (Information Technology), Parul University
 - 💻 Full Stack MERN Developer
-- 🎯 Preparing for SDE roles — 450+ problems solved on LeetCode
+- 🎯 Preparing for SDE roles — 400+ problems solved on LeetCode
 - 📫 Reach me at **priyanshurajprasad999@gmail.com**
 
 <br>
@@ -33,26 +33,64 @@ I'm a final-year software engineering student passionate about full-stack develo
 
 ## 🚀 Featured Projects
 
-### 🧠 AI Study Buddy
-An AI-powered educational platform engineered to provide personalized learning experiences.
-- Custom quiz generation and AI-driven concept explanations
-- Secure user authentication and personalized dashboards
-- **Tech:** React, Node.js, Express, MongoDB, Tailwind CSS, Groq AI
-- 🔗 [Live Demo](#) · [Source Code](https://github.com/PriyanshurajPrasad/AI_Study_Buddy)
-
-### 🦴 Human Anatomy Viewer
-An interactive learning platform with an intuitive interface for anatomical exploration.
-- Detailed, interactive visualizations of different body parts
-- Optimized for high performance and seamless user engagement
-- **Tech:** React, Node.js, Express, MongoDB, Tailwind CSS, Groq AI
-- 🔗 [Live Demo](#) · [Source Code](#)
-
-### ⚕️ PhysioCare
-A modern healthcare platform built to streamline and manage physiotherapy clinics and services.
-- Seamless appointment scheduling and patient management
-- Treatment tracking through a highly responsive UI
-- **Tech:** React, Tailwind CSS, JavaScript
-- 🔗 [Live Demo](#) · [Source Code](https://github.com/PriyanshurajPrasad/PhysioCare)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 AI Study Buddy</h3>
+      <p>An AI-powered educational platform engineered to provide personalized learning experiences.</p>
+      <ul>
+        <li>Custom quiz generation and AI-driven concept explanations</li>
+        <li>Secure user authentication and personalized dashboards</li>
+      </ul>
+      <p><b>Tech:</b> React, Node.js, Express, MongoDB, Tailwind CSS, Groq AI</p>
+      <p>
+        <a href="#">🔗 Live Demo</a> ·
+        <a href="https://github.com/PriyanshurajPrasad/AI_Study_Buddy">💻 Source Code</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🦴 Human Anatomy Viewer</h3>
+      <p>An interactive learning platform with an intuitive interface for anatomical exploration.</p>
+      <ul>
+        <li>Detailed, interactive visualizations of different body parts</li>
+        <li>Optimized for high performance and seamless user engagement</li>
+      </ul>
+      <p><b>Tech:</b> React, Node.js, Express, MongoDB, Tailwind CSS, Groq AI</p>
+      <p>
+        <a href="#">🔗 Live Demo</a> ·
+        <a href="#">💻 Source Code</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚕️ PhysioCare</h3>
+      <p>A modern healthcare platform built to streamline and manage physiotherapy clinics and services.</p>
+      <ul>
+        <li>Seamless appointment scheduling and patient management</li>
+        <li>Treatment tracking through a highly responsive UI</li>
+      </ul>
+      <p><b>Tech:</b> React, Tailwind CSS, JavaScript</p>
+      <p>
+        <a href="#">🔗 Live Demo</a> ·
+        <a href="https://github.com/PriyanshurajPrasad/PhysioCare">💻 Source Code</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>⌨️ TypoFusion</h3>
+      <p>Web application project — add your description here.</p>
+      <ul>
+        <li>Feature 1</li>
+        <li>Feature 2</li>
+      </ul>
+      <p><b>Tech:</b> your stack here</p>
+      <p>
+        <a href="#">🔗 Live Demo</a> ·
+        <a href="#">💻 Source Code</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
