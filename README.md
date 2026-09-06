@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Priyanshuraj Prasad 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6366F1&height=180&section=header&text=Hi%20there,%20I'm%20Priyanshuraj%20Prasad%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -139,7 +141,7 @@ Final-year B.Tech Information Technology student with hands-on experience as a W
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyanshurajPrasad&show_icons=true&theme=default&cache_seconds=1800" alt="GitHub Stats" /> -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyanshurajPrasad&show_icons=true&theme=default&cache_seconds=1800" alt="GitHub Stats" />
   <img height="170" src="https://streak-stats.demolab.com?user=PriyanshurajPrasad&theme=default" alt="GitHub Streak" />
 </div>
 
