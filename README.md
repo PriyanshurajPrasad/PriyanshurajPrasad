@@ -93,8 +93,8 @@ I'm a final-year software engineering student passionate about full-stack develo
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyanshurajPrasad&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PriyanshurajPrasad&theme=default" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyanshurajPrasad&show_icons=true&theme=default&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=PriyanshurajPrasad&theme=default" alt="GitHub Streak" />
 </div>
 
 <br>
