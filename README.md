@@ -77,20 +77,16 @@ I'm a final-year software engineering student passionate about full-stack develo
       </p>
     </td>
     <td width="50%">
-      <h3>⌨️ TypoFusion</h3>
-      <p>Web application project — add your description here.</p>
-      <ul>
-        <li>Feature 1</li>
-        <li>Feature 2</li>
-      </ul>
-      <p><b>Tech:</b> your stack here</p>
-      <p>
-        <a href="#">🔗 Live Demo</a> ·
-        <a href="#">💻 Source Code</a>
-      </p>
+      <!-- next project card here, or leave empty -->
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/PriyanshurajPrasad?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+  </a>
+</p>
 
 <br>
 
