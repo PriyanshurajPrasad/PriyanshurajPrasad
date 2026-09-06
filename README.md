@@ -124,7 +124,7 @@ Final-year B.Tech Information Technology student with hands-on experience as a W
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyanshurajPrasad&show_icons=true&theme=default&cache_seconds=1800" alt="GitHub Stats" />
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyanshurajPrasad&show_icons=true&theme=default&cache_seconds=1800" alt="GitHub Stats" /> -->
   <img height="170" src="https://streak-stats.demolab.com?user=PriyanshurajPrasad&theme=default" alt="GitHub Streak" />
 </div>
 
