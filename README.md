@@ -27,8 +27,37 @@ Final-year B.Tech Information Technology student with hands-on experience as a W
 
 ## 🛠 Tech Stack
 
+**Languages**
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,express,mongodb,git,github,vscode,postman" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,c,python" alt="Languages" />
+</div>
+
+**Frontend**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,bootstrap,tailwind,materialui" alt="Frontend" />
+</div>
+
+**Backend & Databases**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" alt="Backend" />
+</div>
+
+**AI & Agentic Systems**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI Agents SDK"/>
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/Groq%20AI-F55036?style=flat" alt="Groq AI"/>
+</p>
+
+**Tools & Platforms**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" alt="Tools" />
 </div>
 
 <br>
