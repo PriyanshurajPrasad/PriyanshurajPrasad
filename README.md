@@ -38,7 +38,7 @@
 </tr>
 </table>
 
-## What I’m building
+## 🚀 What I’m building
 
 <table width="100%">
 <tr>
@@ -46,11 +46,24 @@
 <h3>🛡️ SafeExtension</h3>
 <p>A Chrome Extension built with Manifest V3 and Node.js/Express that detects potentially malicious URLs and provides a 0–100 safety score.</p>
 <p><strong>Key highlights:</strong> Phishing detection, Google Safe Browsing, PhishTank integration, automatic blocking, 24-hour caching, and offline fallback.</p>
+<p>
+<img src="https://img.shields.io/badge/Chrome_Extension-0d1117?style=flat-square&amp;logo=googlechrome&amp;logoColor=4285F4" alt="Chrome Extension" />
+<img src="https://img.shields.io/badge/Manifest_V3-0d1117?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Manifest V3" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express" />
+</p>
 </td>
 <td width="50%" valign="top">
 <h3>🤖 Intellicon</h3>
 <p>An Agentic AI competitive intelligence platform built using LangGraph and a five-agent workflow.</p>
 <p><strong>Key highlights:</strong> Multi-agent research, web evidence verification, Groq LLM, Tavily, BullMQ, Redis, Socket.IO, and PDF/Markdown report exports.</p>
+<p>
+<img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Groq-0d1117?style=flat-square&amp;logoColor=white" alt="Groq" />
+<img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&amp;logo=redis&amp;logoColor=DC382D" alt="Redis" />
+<img src="https://img.shields.io/badge/BullMQ-0d1117?style=flat-square&amp;logoColor=white" alt="BullMQ" />
+<img src="https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&amp;logo=socketdotio&amp;logoColor=white" alt="Socket.IO" />
+</p>
 </td>
 </tr>
 <tr>
@@ -58,11 +71,20 @@
 <h3>⚡ ChangelogPulse</h3>
 <p>A MERN Stack changelog and feedback platform with separate Admin and User portals.</p>
 <p><strong>Key highlights:</strong> JWT authentication, role-based access control, publish/archive workflow, and real-time updates using Socket.IO.</p>
+<p>
+<img src="https://img.shields.io/badge/MERN_Stack-0d1117?style=flat-square&amp;logo=mongodb&amp;logoColor=47A248" alt="MERN Stack" />
+<img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&amp;logo=socketdotio&amp;logoColor=white" alt="Socket.IO" />
+</p>
 </td>
 <td width="50%" valign="top">
 <h3>🧬 AnatomyViewer</h3>
 <p>An AI-assisted healthcare web application built using the MERN stack and Groq API.</p>
 <p><strong>Key highlights:</strong> Symptom analysis, medical report interpretation, AI-powered health tips, dynamic quizzes, bookmarks, and progress tracking.</p>
+<p>
+<img src="https://img.shields.io/badge/MERN_Stack-0d1117?style=flat-square&amp;logo=mongodb&amp;logoColor=47A248" alt="MERN Stack" />
+<img src="https://img.shields.io/badge/Groq_API-0d1117?style=flat-square&amp;logoColor=white" alt="Groq API" />
+</p>
 </td>
 </tr>
 <tr>
@@ -70,35 +92,44 @@
 <h3>📚 AI Study Buddy</h3>
 <p>An AI-powered learning platform that helps users upload study materials, generate quizzes, and receive detailed AI explanations.</p>
 <p><strong>Key highlights:</strong> MERN Stack, Groq API, RESTful APIs, JWT authentication, and MongoDB Atlas.</p>
+<p>
+<img src="https://img.shields.io/badge/MERN_Stack-0d1117?style=flat-square&amp;logo=mongodb&amp;logoColor=47A248" alt="MERN Stack" />
+<img src="https://img.shields.io/badge/Groq_API-0d1117?style=flat-square&amp;logoColor=white" alt="Groq API" />
+<img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/MongoDB_Atlas-0d1117?style=flat-square&amp;logo=mongodb&amp;logoColor=47A248" alt="MongoDB Atlas" />
+</p>
 </td>
 <td width="50%" valign="top">
-<h3>🚀 Explore More</h3>
+<h3>🔭 Explore More</h3>
 <p>Explore my other projects, experiments, and development work on GitHub.</p>
 <p><a href="https://github.com/priyanshurajprasad?tab=repositories">Explore all repositories →</a></p>
+<p><a href="https://github.com/priyanshurajprasad?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-7c3aed?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0d1117" alt="View all projects" /></a></p>
 </td>
 </tr>
 </table>
 
 <p align="center"><a href="https://github.com/priyanshurajprasad?tab=repositories">Explore repositories →</a> · <a href="https://github.com/priyanshurajprasad?tab=stars">See open-source contributions →</a></p>
 
-## Technology arsenal
+## 🧰 Technology arsenal
 
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/technology-stack?username=priyanshurajprasad&theme=github-dark&logos=JavaScript%2CJava%2CC%2CPython%2CHTML%2CCSS&v=signature-cap-tip-languages-3" alt="Priyanshuraj Prasad programming languages" />
+<img src="https://skillicons.dev/icons?i=js,java,c,py,html,css,react,tailwind,bootstrap,nodejs,express,fastapi,mongodb,mysql,redis,git,github,docker,postman,vercel&amp;perline=10&amp;theme=dark" alt="Technology stack icons" />
 
 </div>
 
+<br/>
+
 <table width="100%">
-<tr><td width="28%"><strong>Programming Languages</strong></td><td>Java | C | Python | JavaScript</td></tr>
-<tr><td><strong>Frontend Development</strong></td><td>HTML | CSS | React.js | Tailwind CSS | Bootstrap</td></tr>
-<tr><td><strong>Backend Development</strong></td><td>Node.js | Express.js | FastAPI | REST APIs | JWT Authentication | Socket.IO</td></tr>
-<tr><td><strong>Databases & Queues</strong></td><td>MongoDB | MySQL | Redis | BullMQ</td></tr>
-<tr><td><strong>Agentic AI & Integration</strong></td><td>LangGraph | Groq API | Google Gemini API | Multi-Agent Workflows</td></tr>
-<tr><td><strong>AI Technologies (Familiar With)</strong></td><td>LangChain | Model Context Protocol (MCP) | OpenAI Agents SDK</td></tr>
-<tr><td><strong>Tools & Platforms</strong></td><td>Git | GitHub | Docker | Postman | Vercel | Render</td></tr>
-<tr><td><strong>Chrome Extension</strong></td><td>Chrome Extensions | Manifest V3</td></tr>
-<tr><td><strong>CS Fundamentals</strong></td><td>Data Structures & Algorithms | OOP | DBMS | Operating Systems | Computer Networks</td></tr>
+<tr><td width="28%"><strong>💻 Programming Languages</strong></td><td>Java | C | Python | JavaScript</td></tr>
+<tr><td><strong>🎨 Frontend Development</strong></td><td>HTML | CSS | React.js | Tailwind CSS | Bootstrap</td></tr>
+<tr><td><strong>⚙️ Backend Development</strong></td><td>Node.js | Express.js | FastAPI | REST APIs | JWT Authentication | Socket.IO</td></tr>
+<tr><td><strong>🗄️ Databases & Queues</strong></td><td>MongoDB | MySQL | Redis | BullMQ</td></tr>
+<tr><td><strong>🤖 Agentic AI & Integration</strong></td><td>LangGraph | Groq API | Google Gemini API | Multi-Agent Workflows</td></tr>
+<tr><td><strong>🧠 AI Technologies (Familiar With)</strong></td><td>LangChain | Model Context Protocol (MCP) | OpenAI Agents SDK</td></tr>
+<tr><td><strong>🛠️ Tools & Platforms</strong></td><td>Git | GitHub | Docker | Postman | Vercel | Render</td></tr>
+<tr><td><strong>🧩 Chrome Extension</strong></td><td>Chrome Extensions | Manifest V3</td></tr>
+<tr><td><strong>📘 CS Fundamentals</strong></td><td>Data Structures & Algorithms | OOP | DBMS | Operating Systems | Computer Networks</td></tr>
 </table>
 
 ## Professional experience
