@@ -5,19 +5,38 @@
 <h1>Priyanshuraj Prasad</h1>
 <h3>MERN Stack Developer | Agentic AI Developer</h3>
 
-<p><a href="https://github.com/priyanshurajprasad"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/priyanshurajprasad?tab=repositories"><img src="https://img.shields.io/badge/13_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="13 PUBLIC REPOSITORIES" /></a> <img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&height=40&lines=Building+scalable+full-stack+applications;Engineering+secure+backend+systems;Designing+multi-agent+AI+workflows;Turning+real-world+problems+into+software" alt="Typing animation" />
 
-<p>MERN Stack Developer | Building scalable full-stack applications, secure backend systems, and AI-powered solutions using multi-agent workflows.</p>
+<p>
+<a href="https://github.com/priyanshurajprasad"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0d1117" alt="FOLLOW" /></a>
+<a href="https://github.com/priyanshurajprasad?tab=repositories"><img src="https://img.shields.io/badge/13_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;labelColor=0d1117" alt="13 PUBLIC REPOSITORIES" /></a>
+<img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white&amp;labelColor=0d1117" alt="BUILDING" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=2&amp;section=header" width="80%" alt="divider" />
+
+<p><em>MERN Stack Developer | Building scalable full-stack applications, secure backend systems, and AI-powered solutions using multi-agent workflows.</em></p>
 
 </div>
 
-## The mission
+## 🎯 The mission
 
-I’m a software developer focused on building scalable web applications and intelligent AI-powered systems.
-
-My work combines full-stack engineering with Agentic AI, using technologies like the MERN stack, LangGraph, Groq API, and Google Gemini API to build practical, secure, and user-focused solutions.
-
-I’m particularly interested in multi-agent workflows, AI integration, backend architecture, and developing software that solves real-world problems.
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h3>👨‍💻 Who I Am</h3>
+<p>I’m a software developer focused on building scalable web applications and intelligent AI-powered systems.</p>
+</td>
+<td width="33%" valign="top">
+<h3>⚙️ What I Do</h3>
+<p>My work combines full-stack engineering with Agentic AI, using technologies like the MERN stack, LangGraph, Groq API, and Google Gemini API to build practical, secure, and user-focused solutions.</p>
+</td>
+<td width="33%" valign="top">
+<h3>🚀 What Drives Me</h3>
+<p>I’m particularly interested in multi-agent workflows, AI integration, backend architecture, and developing software that solves real-world problems.</p>
+</td>
+</tr>
+</table>
 
 ## What I’m building
 
