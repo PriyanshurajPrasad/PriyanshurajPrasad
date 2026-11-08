@@ -1,53 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Priyanshuraj%20Prasad&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=MERN%20Stack%20Developer%20%7C%20Agentic%20AI%20Developer&descSize=18&descAlignY=58" width="100%" alt="Priyanshuraj Prasad banner" />
+<img src="https://www.gitskins.com/api/section/portrait?username=priyanshurajprasad&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172166903%3Fu%3D788dfcc6d821a1951a254307f3aaffe1c0b003b0%26v%3D4" width="620" alt="Priyanshuraj Prasad animated graduation portrait" />
 
-<a href="https://github.com/priyanshurajprasad">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=40&lines=Building+scalable+full-stack+applications;Engineering+secure+backend+systems;Designing+multi-agent+AI+workflows+with+LangGraph;Turning+real-world+problems+into+software" alt="Typing animation" />
-</a>
+<h1>Priyanshuraj Prasad</h1>
+<h3>MERN Stack Developer | Agentic AI Developer</h3>
 
-<p>
-  <a href="https://github.com/priyanshurajprasad"><img src="https://img.shields.io/github/followers/priyanshurajprasad?style=for-the-badge&logo=github&logoColor=white&label=FOLLOW&color=22d3ee&labelColor=0d1117" alt="Followers" /></a>
-  <a href="https://github.com/priyanshurajprasad?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-13-7c3aed?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Public repositories" /></a>
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-34d399?style=for-the-badge&labelColor=0d1117" alt="Status: Building" />
-  <img src="https://komarev.com/ghpvc/?username=priyanshurajprasad&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS&labelColor=0d1117" alt="Profile views" />
-</p>
+<p><a href="https://github.com/priyanshurajprasad"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/priyanshurajprasad?tab=repositories"><img src="https://img.shields.io/badge/13_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="13 PUBLIC REPOSITORIES" /></a> <img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
 
-<p>
-  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-</p>
+<p>MERN Stack Developer | Building scalable full-stack applications, secure backend systems, and AI-powered solutions using multi-agent workflows.</p>
 
 </div>
 
-## 🎯 The Mission
+## The mission
 
-> Building scalable full-stack applications, secure backend systems, and AI-powered solutions using multi-agent workflows.
+I’m a software developer focused on building scalable web applications and intelligent AI-powered systems.
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-<h3>⚙️ Full-Stack Engineering</h3>
-<p>Designing scalable web applications with the MERN stack, clean REST APIs, and secure authentication.</p>
-</td>
-<td width="33%" valign="top">
-<h3>🤖 Agentic AI</h3>
-<p>Building intelligent multi-agent systems with LangGraph, Groq API, and Google Gemini API.</p>
-</td>
-<td width="33%" valign="top">
-<h3>🛡️ Backend Architecture</h3>
-<p>Focused on secure, reliable, and maintainable backend systems that solve real-world problems.</p>
-</td>
-</tr>
-</table>
+My work combines full-stack engineering with Agentic AI, using technologies like the MERN stack, LangGraph, Groq API, and Google Gemini API to build practical, secure, and user-focused solutions.
 
----
+I’m particularly interested in multi-agent workflows, AI integration, backend architecture, and developing software that solves real-world problems.
 
-## 🚀 What I'm Building
+## What I’m building
 
 <table width="100%">
 <tr>
@@ -81,7 +53,7 @@
 <p><strong>Key highlights:</strong> MERN Stack, Groq API, RESTful APIs, JWT authentication, and MongoDB Atlas.</p>
 </td>
 <td width="50%" valign="top">
-<h3>🔭 Explore More</h3>
+<h3>🚀 Explore More</h3>
 <p>Explore my other projects, experiments, and development work on GitHub.</p>
 <p><a href="https://github.com/priyanshurajprasad?tab=repositories">Explore all repositories →</a></p>
 </td>
@@ -90,17 +62,13 @@
 
 <p align="center"><a href="https://github.com/priyanshurajprasad?tab=repositories">Explore repositories →</a> · <a href="https://github.com/priyanshurajprasad?tab=stars">See open-source contributions →</a></p>
 
----
-
-## 🧰 Technology Arsenal
+## Technology arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,java,c,py,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,redis,git,github,docker,postman,vercel&perline=10" alt="Technology icons" />
+<img src="https://www.gitskins.com/api/readme-reference/technology-stack?username=priyanshurajprasad&theme=github-dark&logos=JavaScript%2CJava%2CC%2CPython%2CHTML%2CCSS&v=signature-cap-tip-languages-3" alt="Priyanshuraj Prasad programming languages" />
 
 </div>
-
-<br/>
 
 <table width="100%">
 <tr><td width="28%"><strong>Programming Languages</strong></td><td>Java | C | Python | JavaScript</td></tr>
@@ -114,9 +82,7 @@
 <tr><td><strong>CS Fundamentals</strong></td><td>Data Structures & Algorithms | OOP | DBMS | Operating Systems | Computer Networks</td></tr>
 </table>
 
----
-
-## 💼 Professional Experience
+## Professional experience
 
 <table width="100%">
 <tr>
@@ -140,9 +106,7 @@
 </tr>
 </table>
 
----
-
-## 🎓 Certifications & Learning
+## Certifications & learning
 
 - **Agentic AI – Oracle (2026):** AI Agents, Model Context Protocol (MCP), OpenAI Agents SDK, and enterprise AI offerings.
 - **Applied Machine Learning – Infosys (2026):** Supervised and unsupervised learning, model training, and evaluation.
@@ -150,15 +114,13 @@
 - **Computer Networks – NPTEL, IIT Kharagpur (2024):** OSI and TCP/IP models, routing, and transport-layer protocols.
 - **Vadodara Hackathon 6.0 (2025):** Participated in a team-based hackathon and developed a working prototype.
 
----
-
-## 🏆 Problem Solving & Achievements
+## Problem solving & achievements
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LEETCODE-500%2B_SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="500 plus LeetCode problems solved" />
-<img src="https://img.shields.io/badge/CONTEST_RATING-1447-22d3ee?style=for-the-badge&labelColor=0d1117" alt="LeetCode contest rating 1447" />
-<img src="https://img.shields.io/badge/BADGES-6-7c3aed?style=for-the-badge&labelColor=0d1117" alt="6 LeetCode badges" />
+<img src="https://img.shields.io/badge/LEETCODE-500%2B_SOLVED-FFA116?style=for-the-badge&amp;labelColor=0d1117" alt="500 plus LeetCode problems solved" />
+<img src="https://img.shields.io/badge/CONTEST_RATING-1447-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="LeetCode contest rating 1447" />
+<img src="https://img.shields.io/badge/BADGES-6-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="6 LeetCode badges" />
 
 </div>
 
@@ -168,33 +130,24 @@
 - Developed and deployed SafeExtension, a Chrome extension for phishing URL detection with a hosted Node.js backend.
 - Participated in Vadodara Hackathon 6.0 (2025).
 
----
-
-## 📊 Open-Source Signal
+## Open-source signal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshurajprasad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=7c3aed&count_private=true" height="170" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshurajprasad&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=7c3aed&currStreakLabel=22d3ee" height="170" alt="GitHub streak" />
+<img src="https://www.gitskins.com/api/readme-reference/contribution-calendar?username=priyanshurajprasad&theme=github-dark&v=signature-cap-tip-summary-1" width="620" alt="Priyanshuraj Prasad GitHub contribution summary" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshurajprasad&theme=react-dark&bg_color=0d1117&color=22d3ee&line=7c3aed&point=ffffff&hide_border=true" width="100%" alt="Contribution activity graph" />
+<img src="https://www.gitskins.com/api/readme-reference/character-calendar?username=priyanshurajprasad&theme=github-dark&motion=subtle&v=signature-cap-tip-calendar-1" width="620" alt="Priyanshuraj Prasad contribution activity" />
 
 </div>
 
----
+## Let’s build useful software
 
-## 🤝 Let's Build Useful Software
-
-I'm interested in collaborating with software engineers, founders, AI engineering teams, and open-source contributors who enjoy building scalable applications and intelligent solutions.
+I’m interested in collaborating with software engineers, founders, AI engineering teams, and open-source contributors who enjoy building scalable applications and intelligent solutions.
 
 <p align="center">
-<a href="https://github.com/priyanshurajprasad"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GITHUB" /></a>
-<a href="mailto:priyanshurajprasad999@gmail.com"><img src="https://img.shields.io/badge/EMAIL-22d3ee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="EMAIL" /></a>
-<a href="https://github.com/priyanshurajprasad?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="EXPLORE PROJECTS" /></a>
+<a href="https://github.com/priyanshurajprasad"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GITHUB" /></a>
+<a href="mailto:priyanshurajprasad999@gmail.com"><img src="https://img.shields.io/badge/EMAIL-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="EMAIL" /></a>
+<a href="https://github.com/priyanshurajprasad?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="EXPLORE PROJECTS" /></a>
 </p>
 
 <div align="center"><sub>Build boldly · test thoughtfully · ship safely</sub></div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer" />
