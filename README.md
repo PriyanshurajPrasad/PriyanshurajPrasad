@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://www.gitskins.com/api/section/portrait?username=priyanshurajprasad&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172166903%3Fu%3D788dfcc6d821a1951a254307f3aaffe1c0b003b0%26v%3D4" width="620" alt="Priyanshuraj Prasad animated graduation portrait" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header" width="100%" alt="Header wave" />
 
 <h1>Priyanshuraj Prasad</h1>
 <h3>MERN Stack Developer | Agentic AI Developer</h3>
@@ -8,12 +8,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&height=40&lines=Building+scalable+full-stack+applications;Engineering+secure+backend+systems;Designing+multi-agent+AI+workflows;Turning+real-world+problems+into+software" alt="Typing animation" />
 
 <p>
-<a href="https://github.com/priyanshurajprasad"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0d1117" alt="FOLLOW" /></a>
-<a href="https://github.com/priyanshurajprasad?tab=repositories"><img src="https://img.shields.io/badge/13_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;logo=git&amp;logoColor=white&amp;labelColor=0d1117" alt="13 PUBLIC REPOSITORIES" /></a>
-<img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white&amp;labelColor=0d1117" alt="BUILDING" />
+<a href="https://github.com/priyanshurajprasad"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="FOLLOW" /></a>
+<a href="https://github.com/priyanshurajprasad?tab=repositories"><img src="https://img.shields.io/badge/13_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="13 PUBLIC REPOSITORIES" /></a>
+<img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" alt="BUILDING" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;customColorList=6,11,20&amp;height=2&amp;section=header" width="80%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="80%" alt="divider" />
 
 <p><em>MERN Stack Developer | Building scalable full-stack applications, secure backend systems, and AI-powered solutions using multi-agent workflows.</em></p>
 
@@ -47,10 +47,10 @@
 <p>A Chrome Extension built with Manifest V3 and Node.js/Express that detects potentially malicious URLs and provides a 0–100 safety score.</p>
 <p><strong>Key highlights:</strong> Phishing detection, Google Safe Browsing, PhishTank integration, automatic blocking, 24-hour caching, and offline fallback.</p>
 <p>
-<img src="https://img.shields.io/badge/Chrome_Extension-0d1117?style=flat-square&amp;logo=googlechrome&amp;logoColor=4285F4" alt="Chrome Extension" />
-<img src="https://img.shields.io/badge/Manifest_V3-0d1117?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Manifest V3" />
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Chrome_Extension-0d1117?style=flat-square&logo=googlechrome&logoColor=4285F4" alt="Chrome Extension" />
+<img src="https://img.shields.io/badge/Manifest_V3-0d1117?style=flat-square&logo=googlechrome&logoColor=white" alt="Manifest V3" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white" alt="Express" />
 </p>
 </td>
 <td width="50%" valign="top">
@@ -58,11 +58,11 @@
 <p>An Agentic AI competitive intelligence platform built using LangGraph and a five-agent workflow.</p>
 <p><strong>Key highlights:</strong> Multi-agent research, web evidence verification, Groq LLM, Tavily, BullMQ, Redis, Socket.IO, and PDF/Markdown report exports.</p>
 <p>
-<img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&amp;logo=langchain&amp;logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Groq-0d1117?style=flat-square&amp;logoColor=white" alt="Groq" />
-<img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&amp;logo=redis&amp;logoColor=DC382D" alt="Redis" />
-<img src="https://img.shields.io/badge/BullMQ-0d1117?style=flat-square&amp;logoColor=white" alt="BullMQ" />
-<img src="https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&amp;logo=socketdotio&amp;logoColor=white" alt="Socket.IO" />
+<img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Groq-0d1117?style=flat-square&logoColor=white" alt="Groq" />
+<img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
+<img src="https://img.shields.io/badge/BullMQ-0d1117?style=flat-square&logoColor=white" alt="BullMQ" />
+<img src="https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
 </p>
 </td>
 </tr>
@@ -72,9 +72,9 @@
 <p>A MERN Stack changelog and feedback platform with separate Admin and User portals.</p>
 <p><strong>Key highlights:</strong> JWT authentication, role-based access control, publish/archive workflow, and real-time updates using Socket.IO.</p>
 <p>
-<img src="https://img.shields.io/badge/MERN_Stack-0d1117?style=flat-square&amp;logo=mongodb&amp;logoColor=47A248" alt="MERN Stack" />
-<img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&amp;logo=socketdotio&amp;logoColor=white" alt="Socket.IO" />
+<img src="https://img.shields.io/badge/MERN_Stack-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MERN Stack" />
+<img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Socket.IO-0d1117?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
 </p>
 </td>
 <td width="50%" valign="top">
@@ -82,8 +82,8 @@
 <p>An AI-assisted healthcare web application built using the MERN stack and Groq API.</p>
 <p><strong>Key highlights:</strong> Symptom analysis, medical report interpretation, AI-powered health tips, dynamic quizzes, bookmarks, and progress tracking.</p>
 <p>
-<img src="https://img.shields.io/badge/MERN_Stack-0d1117?style=flat-square&amp;logo=mongodb&amp;logoColor=47A248" alt="MERN Stack" />
-<img src="https://img.shields.io/badge/Groq_API-0d1117?style=flat-square&amp;logoColor=white" alt="Groq API" />
+<img src="https://img.shields.io/badge/MERN_Stack-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MERN Stack" />
+<img src="https://img.shields.io/badge/Groq_API-0d1117?style=flat-square&logoColor=white" alt="Groq API" />
 </p>
 </td>
 </tr>
@@ -93,17 +93,17 @@
 <p>An AI-powered learning platform that helps users upload study materials, generate quizzes, and receive detailed AI explanations.</p>
 <p><strong>Key highlights:</strong> MERN Stack, Groq API, RESTful APIs, JWT authentication, and MongoDB Atlas.</p>
 <p>
-<img src="https://img.shields.io/badge/MERN_Stack-0d1117?style=flat-square&amp;logo=mongodb&amp;logoColor=47A248" alt="MERN Stack" />
-<img src="https://img.shields.io/badge/Groq_API-0d1117?style=flat-square&amp;logoColor=white" alt="Groq API" />
-<img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/MongoDB_Atlas-0d1117?style=flat-square&amp;logo=mongodb&amp;logoColor=47A248" alt="MongoDB Atlas" />
+<img src="https://img.shields.io/badge/MERN_Stack-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MERN Stack" />
+<img src="https://img.shields.io/badge/Groq_API-0d1117?style=flat-square&logoColor=white" alt="Groq API" />
+<img src="https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/MongoDB_Atlas-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB Atlas" />
 </p>
 </td>
 <td width="50%" valign="top">
 <h3>🔭 Explore More</h3>
 <p>Explore my other projects, experiments, and development work on GitHub.</p>
 <p><a href="https://github.com/priyanshurajprasad?tab=repositories">Explore all repositories →</a></p>
-<p><a href="https://github.com/priyanshurajprasad?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-7c3aed?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0d1117" alt="View all projects" /></a></p>
+<p><a href="https://github.com/priyanshurajprasad?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="View all projects" /></a></p>
 </td>
 </tr>
 </table>
@@ -114,7 +114,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,java,c,py,html,css,react,tailwind,bootstrap,nodejs,express,fastapi,mongodb,mysql,redis,git,github,docker,postman,vercel&amp;perline=10&amp;theme=dark" alt="Technology stack icons" />
+<img src="https://skillicons.dev/icons?i=js,java,c,py,html,css,react,tailwind,bootstrap,nodejs,express,fastapi,mongodb,mysql,redis,git,github,docker,postman,vercel&perline=10&theme=dark" alt="Technology stack icons" />
 
 </div>
 
@@ -139,8 +139,8 @@
 <td width="50%" valign="top">
 <h3>🏢 FutureInterns</h3>
 <p>
-<img src="https://img.shields.io/badge/Web_Development_Intern-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="Web Development Intern" />
-<img src="https://img.shields.io/badge/April_2026-7c3aed?style=for-the-badge&amp;logo=googlecalendar&amp;logoColor=white&amp;labelColor=0d1117" alt="April 2026" />
+<img src="https://img.shields.io/badge/Web_Development_Intern-22d3ee?style=for-the-badge&labelColor=0d1117" alt="Web Development Intern" />
+<img src="https://img.shields.io/badge/April_2026-7c3aed?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=0d1117" alt="April 2026" />
 </p>
 <ul>
 <li>Built full-stack features using HTML, CSS, JavaScript, Node.js, and Express.js.</li>
@@ -148,27 +148,27 @@
 <li>Collaborated remotely using structured development workflows.</li>
 </ul>
 <p>
-<img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&amp;logo=html5&amp;logoColor=E34F26" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&amp;logo=css3&amp;logoColor=1572B6" alt="CSS" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&amp;logo=nodedotjs&amp;logoColor=339933" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white" alt="Express" />
 </p>
 </td>
 <td width="50%" valign="top">
 <h3>🏢 Oasis Infobyte</h3>
 <p>
-<img src="https://img.shields.io/badge/Web_Development_Intern-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="Web Development Intern" />
-<img src="https://img.shields.io/badge/September_2025-7c3aed?style=for-the-badge&amp;logo=googlecalendar&amp;logoColor=white&amp;labelColor=0d1117" alt="September 2025" />
+<img src="https://img.shields.io/badge/Web_Development_Intern-22d3ee?style=for-the-badge&labelColor=0d1117" alt="Web Development Intern" />
+<img src="https://img.shields.io/badge/September_2025-7c3aed?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=0d1117" alt="September 2025" />
 </p>
 <ul>
 <li>Built 3+ responsive web applications using HTML, CSS, and JavaScript.</li>
 <li>Focused on clean UI design and cross-device compatibility.</li>
 </ul>
 <p>
-<img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&amp;logo=html5&amp;logoColor=E34F26" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&amp;logo=css3&amp;logoColor=1572B6" alt="CSS" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 </p>
 </td>
 </tr>
@@ -219,9 +219,9 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LEETCODE-500%2B_SOLVED-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white&amp;labelColor=0d1117" alt="500 plus LeetCode problems solved" />
-<img src="https://img.shields.io/badge/CONTEST_RATING-1447-22d3ee?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white&amp;labelColor=0d1117" alt="LeetCode contest rating 1447" />
-<img src="https://img.shields.io/badge/BADGES-6-7c3aed?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white&amp;labelColor=0d1117" alt="6 LeetCode badges" />
+<img src="https://img.shields.io/badge/LEETCODE-500%2B_SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="500 plus LeetCode problems solved" />
+<img src="https://img.shields.io/badge/CONTEST_RATING-1447-22d3ee?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode contest rating 1447" />
+<img src="https://img.shields.io/badge/BADGES-6-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="6 LeetCode badges" />
 
 </div>
 
@@ -239,9 +239,7 @@
 
 <div align="center">
 
-<img src="https://www.gitskins.com/api/readme-reference/contribution-calendar?username=priyanshurajprasad&theme=github-dark&v=signature-cap-tip-summary-1" width="620" alt="Priyanshuraj Prasad GitHub contribution summary" />
-
-<img src="https://www.gitskins.com/api/readme-reference/character-calendar?username=priyanshurajprasad&theme=github-dark&motion=subtle&v=signature-cap-tip-calendar-1" width="620" alt="Priyanshuraj Prasad contribution activity" />
+<img src="https://ghchart.rshah.org/22d3ee/priyanshurajprasad" width="720" alt="Priyanshuraj Prasad GitHub contribution chart" />
 
 </div>
 
@@ -252,13 +250,13 @@
 <p>I’m interested in collaborating with software engineers, founders, AI engineering teams, and open-source contributors who enjoy building scalable applications and intelligent solutions.</p>
 
 <p>
-<a href="https://github.com/priyanshurajprasad"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0d1117" alt="GITHUB" /></a>
-<a href="mailto:priyanshurajprasad999@gmail.com"><img src="https://img.shields.io/badge/EMAIL-22d3ee?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0d1117" alt="EMAIL" /></a>
-<a href="https://github.com/priyanshurajprasad?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-7c3aed?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0d1117" alt="EXPLORE PROJECTS" /></a>
+<a href="https://github.com/priyanshurajprasad"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GITHUB" /></a>
+<a href="mailto:priyanshurajprasad999@gmail.com"><img src="https://img.shields.io/badge/EMAIL-22d3ee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="EMAIL" /></a>
+<a href="https://github.com/priyanshurajprasad?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="EXPLORE PROJECTS" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=14&amp;pause=1500&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=30&amp;lines=Build+boldly;Test+thoughtfully;Ship+safely" alt="Build boldly · test thoughtfully · ship safely" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=22D3EE&center=true&vCenter=true&width=500&height=30&lines=Build+boldly;Test+thoughtfully;Ship+safely" alt="Build boldly · test thoughtfully · ship safely" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=100&amp;section=footer" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer wave" />
 
 </div>
